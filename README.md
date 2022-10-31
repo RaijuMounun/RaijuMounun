@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/eren-keskinoğlu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eren-keskinoğlu/" height="30" width="40" /></a>
 <a href="https://instagram.com/erenzapkinus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="erenzapkinus" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/erenzapkinus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="erenzapkinus" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/ucusac4lkv9ycmlltulxx5hw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucusac4lkv9ycmlltulxx5hw" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/erenkeskinoglu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="erenkeskinoglu" height="30" width="40" /></a>
 <a href="https://discord.gg/Eren.#3426" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Eren.#3426" height="30" width="40" /></a>
 </p>
