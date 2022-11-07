@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Eren/Raiju</h1>
+<h1 align="center">Hi 👋, I'm Eren</h1>
 <h3 align="center">A passionate game developer from Turkey</h3>
 
 - 🔭 I’m currently working on [Come hunt me!](Link will be available soon.)
