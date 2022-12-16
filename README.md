@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eren</h1>
 <h3 align="center">A passionate game developer from Turkey</h3>
+<a align="center">I am a Computer Programming student at Ege University. In this process, I have been dealing with game development and game design for about a year. I dealt with languages and frameworks such as Html, Css, Flutter, Php with my school lessons and my own work. I am proficient in C# and Unity.<a>
 
 - 🔭 I’m currently working on [Come hunt me!](Link will be available soon.)
 
