@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on [Project Demon](Link will be available soon.)
 
-- 📫 How to reach me **erenkeskinoglu@outlook.com**
+- 📫 You can reach me from **erenkeskinoglu@outlook.com**
 
 - ⚡ Fun fact **I am very interested at philosophy of religion and tobacco.**
 
