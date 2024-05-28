@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eren</h1>
 <h3 align="center">A passionate game developer from Turkey</h3>
-<a align="center">I am a game developer with a degree in computer programming. I am proficient and I aspire to improve myself even further in Unity and Unreal Engine. I also love game design, pixelart, 3D animation, cinematics and level design along with other similar areas. I also write articles about game development and game design on [I'm an inline-style link](https://www.google.com) [Medium](https://medium.com/@erenkeskinoglu).<a>
+<a align="center">I am a game developer with a degree in computer programming. I am proficient and I aspire to improve myself even further in Unity and Unreal Engine. I also love game design, pixelart, 3D animation, cinematics and level design along with other similar areas. I also write articles about game development and game design on [Medium](https://medium.com/@erenkeskinoglu).<a>
 
 - 🔭 I’m currently working on a game called İstiklal, link will be available soon.
 
