@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Eren</h1>
 <h3 align="center">A passionate game developer from Turkey</h3>
-<a align="center">I am a Computer Programming student at Ege University. In this process, I have been dealing with game development and game design for about two years. I dealt with languages and frameworks such as Html, Css, Flutter, Php with my school lessons and my own work. I am proficient in C# and Unity.<a>
+<a align="center">I am a game developer with a degree in computer programming. I am proficient and I aspire to improve myself even further in Unity and Unreal Engine. I also love game design, pixelart, 3D animation, cinematics and level design along with other similar areas. I also write articles about game development and game design on [Medium.](https://medium.com/@erenkeskinoglu)<a>
 
-- 🔭 I’m currently working on [Project Demon](Link will be available soon.)
+- 🔭 I’m currently working on a game called İstiklal, link will be available soon.
 
-- 🌱 I’m currently learning **Game Design**
+- 🌱 I’m currently learning **Architecture**
 
-- 👯 I’m looking to collaborate on [Project Demon](Link will be available soon.)
+- 👯 I’m looking to collaborate on İstiklal.
 
 - 📫 You can reach me from **erenkeskinoglu@outlook.com**
 
-- ⚡ Fun fact **I am very interested at philosophy of religion and tobacco.**
+- ⚡ Fun fact **I've never had a headache in my entire life. Not even once.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
