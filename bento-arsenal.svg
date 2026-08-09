@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 300" width="800" height="300">
+    <defs>
+        <style>
+            @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&amp;display=swap');
+            .text { font-family: 'JetBrains Mono', monospace; fill: #f8f8f2; font-size: 14px; }
+            .title { font-family: 'JetBrains Mono', monospace; fill: #bd93f9; font-size: 16px; font-weight: 700; }
+            .box { fill: #282a36; stroke: #44475a; stroke-width: 2; rx: 10; ry: 10; }
+            
+            .bento-box {
+                opacity: 0;
+                animation: popIn 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275) forwards;
+            }
+            .b1 { animation-delay: 0.2s; }
+            .b2 { animation-delay: 0.4s; }
+            .b3 { animation-delay: 0.6s; }
+            .b4 { animation-delay: 0.8s; }
+
+            @keyframes popIn {
+                0% { opacity: 0; transform: scale(0.95); }
+                100% { opacity: 1; transform: scale(1); }
+            }
+        </style>
+    </defs>
+
+    <rect width="100%" height="100%" fill="#282a36" />
+
+    <!-- Game Engines (Top Left) -->
+    <g transform="translate(10, 10)" class="bento-box b1">
+        <rect width="380" height="135" class="box" />
+        <text x="20" y="30" class="title">Game Engines</text>
+        <text x="20" y="70" class="text" fill="#ff79c6">● Unity (C#)</text>
+        <text x="20" y="100" class="text" fill="#8be9fd">● Unreal Engine (C++)</text>
+    </g>
+
+    <!-- Core Languages (Top Right) -->
+    <g transform="translate(410, 10)" class="bento-box b2">
+        <rect width="380" height="135" class="box" />
+        <text x="20" y="30" class="title">Core Languages</text>
+        <text x="20" y="70" class="text">● C#</text>
+        <text x="100" y="70" class="text">● C++</text>
+        <text x="180" y="70" class="text">● Python</text>
+        <text x="20" y="100" class="text">● JavaScript / TypeScript</text>
+    </g>
+
+    <!-- Web & Frameworks (Bottom Left) -->
+    <g transform="translate(10, 160)" class="bento-box b3">
+        <rect width="380" height="130" class="box" />
+        <text x="20" y="30" class="title">Web &amp; Backend</text>
+        <text x="20" y="70" class="text" fill="#50fa7b">● Django</text>
+        <text x="120" y="70" class="text" fill="#ffb86c">● Node.js</text>
+        <text x="20" y="100" class="text" fill="#8be9fd">● React</text>
+    </g>
+
+    <!-- Tools & Architecture (Bottom Right) -->
+    <g transform="translate(410, 160)" class="bento-box b4">
+        <rect width="380" height="130" class="box" />
+        <text x="20" y="30" class="title">Tools &amp; Architecture</text>
+        <text x="20" y="70" class="text">● Git / GitHub Actions</text>
+        <text x="20" y="100" class="text">● System Design / Clean Code</text>
+    </g>
+
+</svg>

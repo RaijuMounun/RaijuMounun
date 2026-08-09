@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 250" width="800" height="250">
+    <defs>
+        <style>
+            @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700;800&amp;display=swap');
+            .title { font-family: 'JetBrains Mono', monospace; font-size: 36px; font-weight: 800; fill: #f8f8f2; }
+            .subtitle { font-family: 'JetBrains Mono', monospace; font-size: 20px; font-weight: 400; fill: #ff79c6; }
+            .node { fill: #bd93f9; opacity: 0; animation: fadeIn 0.5s ease-out forwards; }
+            .edge { stroke: #6272a4; stroke-width: 2; opacity: 0; animation: fadeInEdge 1s ease-out forwards; }
+            
+            .t1 { animation-delay: 0.2s; }
+            .t2 { animation-delay: 0.4s; }
+            .t3 { animation-delay: 0.6s; }
+            .t4 { animation-delay: 0.8s; }
+            .t5 { animation-delay: 1.0s; }
+
+            @keyframes fadeIn {
+                from { opacity: 0; transform: translateY(10px); }
+                to { opacity: 1; transform: translateY(0); }
+            }
+            
+            @keyframes fadeInEdge {
+                from { opacity: 0; stroke-dasharray: 100; stroke-dashoffset: 100; }
+                to { opacity: 0.4; stroke-dasharray: 100; stroke-dashoffset: 0; }
+            }
+            
+            @keyframes slideIn {
+                from { opacity: 0; transform: translateX(-20px); }
+                to { opacity: 1; transform: translateX(0); }
+            }
+            
+            .text-anim {
+                opacity: 0;
+                animation: slideIn 0.8s ease-out forwards;
+            }
+            .delay-1 { animation-delay: 0.5s; }
+            .delay-2 { animation-delay: 0.8s; }
+        </style>
+    </defs>
+
+    <rect width="100%" height="100%" fill="#282a36" rx="15" ry="15" />
+
+    <!-- Node Graph Background -->
+    <g transform="translate(600, 125)">
+        <line x1="-150" y1="-50" x2="-50" y2="20" class="edge t1" />
+        <line x1="-50" y1="20" x2="30" y2="-40" class="edge t2" />
+        <line x1="30" y1="-40" x2="100" y2="50" class="edge t3" />
+        <line x1="-50" y1="20" x2="50" y2="70" class="edge t4" />
+        
+        <circle cx="-150" cy="-50" r="6" class="node t1" />
+        <circle cx="-50" cy="20" r="8" class="node t2" fill="#8be9fd" />
+        <circle cx="30" cy="-40" r="5" class="node t3" />
+        <circle cx="100" cy="50" r="7" class="node t4" fill="#ff79c6" />
+        <circle cx="50" cy="70" r="6" class="node t5" />
+    </g>
+
+    <!-- Blueprint Grid -->
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+        <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#6272a4" stroke-width="0.5" opacity="0.2"/>
+    </pattern>
+    <rect width="100%" height="100%" fill="url(#grid)" rx="15" ry="15" />
+
+    <!-- Text Content -->
+    <g transform="translate(50, 110)">
+        <text x="0" y="0" class="title text-anim delay-1">Software Architect</text>
+        <text x="0" y="45" class="title text-anim delay-1">&amp; Game Developer</text>
+        <text x="0" y="90" class="subtitle text-anim delay-2">&gt; Eren (RaijuMounun)</text>
+    </g>
+
+</svg>
