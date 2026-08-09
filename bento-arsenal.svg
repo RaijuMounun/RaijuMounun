@@ -40,20 +40,21 @@
             <rect width="380" height="135" class="box" />
             <text x="20" y="30" class="title">Core Languages</text>
             <text x="20" y="70" class="text">● C#</text>
-            <text x="100" y="70" class="text">● C++</text>
-            <text x="180" y="70" class="text">● Python</text>
-            <text x="20" y="100" class="text">● JavaScript / TypeScript</text>
+            <text x="100" y="70" class="text">● Python</text>
+            <text x="180" y="70" class="text">● Rust</text>
+            <text x="260" y="70" class="text">● Dart</text>
         </g>
     </g>
 
-    <!-- Web & Frameworks (Bottom Left) -->
+    <!-- Fullstack & Mobile (Bottom Left) -->
     <g transform="translate(10, 160)">
         <g class="bento-box b3">
             <rect width="380" height="130" class="box" />
-            <text x="20" y="30" class="title">Web &amp; Backend</text>
+            <text x="20" y="30" class="title">Fullstack &amp; Mobile</text>
             <text x="20" y="70" class="text" fill="#50fa7b">● Django</text>
             <text x="120" y="70" class="text" fill="#ffb86c">● Node.js</text>
-            <text x="20" y="100" class="text" fill="#8be9fd">● React</text>
+            <text x="220" y="70" class="text" fill="#8be9fd">● React</text>
+            <text x="20" y="100" class="text" fill="#ff79c6">● Flutter</text>
         </g>
     </g>
 
