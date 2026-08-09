@@ -31,7 +31,7 @@ jobs:
           plugin_languages: yes
           plugin_languages_ignored: ShaderLab, HLSL, CMake, Mathematica, Objective-C++, HTML, Batchfile
           plugin_languages_colors: github
-          plugin_languages_limit: 8
+          plugin_languages_limit: 6
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 14
           plugin_languages_recent_load: 300
