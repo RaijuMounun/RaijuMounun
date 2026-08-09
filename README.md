@@ -13,6 +13,5 @@
 ---
 
 <div align="center">
-  <h3>GitHub Architecture Stats</h3>
-  <img src="./metrics.svg?v=2" alt="GitHub Metrics">
+  <img src="./metrics.svg?v=3" width="800" alt="GitHub Metrics">
 </div>
