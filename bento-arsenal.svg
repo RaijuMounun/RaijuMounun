@@ -25,38 +25,46 @@
     <rect width="100%" height="100%" fill="#282a36" />
 
     <!-- Game Engines (Top Left) -->
-    <g transform="translate(10, 10)" class="bento-box b1">
-        <rect width="380" height="135" class="box" />
-        <text x="20" y="30" class="title">Game Engines</text>
-        <text x="20" y="70" class="text" fill="#ff79c6">● Unity (C#)</text>
-        <text x="20" y="100" class="text" fill="#8be9fd">● Unreal Engine (C++)</text>
+    <g transform="translate(10, 10)">
+        <g class="bento-box b1">
+            <rect width="380" height="135" class="box" />
+            <text x="20" y="30" class="title">Game Engines</text>
+            <text x="20" y="70" class="text" fill="#ff79c6">● Unity (C#)</text>
+            <text x="20" y="100" class="text" fill="#8be9fd">● Unreal Engine (C++)</text>
+        </g>
     </g>
 
     <!-- Core Languages (Top Right) -->
-    <g transform="translate(410, 10)" class="bento-box b2">
-        <rect width="380" height="135" class="box" />
-        <text x="20" y="30" class="title">Core Languages</text>
-        <text x="20" y="70" class="text">● C#</text>
-        <text x="100" y="70" class="text">● C++</text>
-        <text x="180" y="70" class="text">● Python</text>
-        <text x="20" y="100" class="text">● JavaScript / TypeScript</text>
+    <g transform="translate(410, 10)">
+        <g class="bento-box b2">
+            <rect width="380" height="135" class="box" />
+            <text x="20" y="30" class="title">Core Languages</text>
+            <text x="20" y="70" class="text">● C#</text>
+            <text x="100" y="70" class="text">● C++</text>
+            <text x="180" y="70" class="text">● Python</text>
+            <text x="20" y="100" class="text">● JavaScript / TypeScript</text>
+        </g>
     </g>
 
     <!-- Web & Frameworks (Bottom Left) -->
-    <g transform="translate(10, 160)" class="bento-box b3">
-        <rect width="380" height="130" class="box" />
-        <text x="20" y="30" class="title">Web &amp; Backend</text>
-        <text x="20" y="70" class="text" fill="#50fa7b">● Django</text>
-        <text x="120" y="70" class="text" fill="#ffb86c">● Node.js</text>
-        <text x="20" y="100" class="text" fill="#8be9fd">● React</text>
+    <g transform="translate(10, 160)">
+        <g class="bento-box b3">
+            <rect width="380" height="130" class="box" />
+            <text x="20" y="30" class="title">Web &amp; Backend</text>
+            <text x="20" y="70" class="text" fill="#50fa7b">● Django</text>
+            <text x="120" y="70" class="text" fill="#ffb86c">● Node.js</text>
+            <text x="20" y="100" class="text" fill="#8be9fd">● React</text>
+        </g>
     </g>
 
     <!-- Tools & Architecture (Bottom Right) -->
-    <g transform="translate(410, 160)" class="bento-box b4">
-        <rect width="380" height="130" class="box" />
-        <text x="20" y="30" class="title">Tools &amp; Architecture</text>
-        <text x="20" y="70" class="text">● Git / GitHub Actions</text>
-        <text x="20" y="100" class="text">● System Design / Clean Code</text>
+    <g transform="translate(410, 160)">
+        <g class="bento-box b4">
+            <rect width="380" height="130" class="box" />
+            <text x="20" y="30" class="title">Tools &amp; Architecture</text>
+            <text x="20" y="70" class="text">● Git / GitHub Actions</text>
+            <text x="20" y="100" class="text">● System Design / Clean Code</text>
+        </g>
     </g>
 
 </svg>
