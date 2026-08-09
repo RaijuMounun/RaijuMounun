@@ -14,8 +14,25 @@ jobs:
         with:
           token: ${{ secrets.USER_TOKEN }}
           filename: metrics.svg
-          config_theme: dracula
           base: header, activity, community, repositories, metadata
+          extras_css: |
+            :root {
+              --color-calendar-graph-day-bg: #282a36;
+              --color-bg: #282a36;
+              --color-fg: #f8f8f2;
+              --color-text: #f8f8f2;
+              --color-link: #bd93f9;
+              --color-border: #44475a;
+              --color-calendar-graph-day-border: #44475a;
+              --color-calendar-graph-day-L1-bg: #6272a4;
+              --color-calendar-graph-day-L2-bg: #bd93f9;
+              --color-calendar-graph-day-L3-bg: #ff79c6;
+              --color-calendar-graph-day-L4-bg: #ff5555;
+            }
+            svg { background-color: #282a36 !important; }
+            * { color: #f8f8f2 !important; }
+            a, text.link { fill: #bd93f9 !important; }
+            .icon { fill: #8be9fd !important; color: #8be9fd !important; }
           plugin_languages: yes
           plugin_languages_colors: github
           plugin_languages_limit: 8

@@ -2,8 +2,8 @@
     <defs>
         <style>
             @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&amp;display=swap');
-            .text { font-family: 'JetBrains Mono', monospace; fill: #f8f8f2; font-size: 14px; }
-            .title { font-family: 'JetBrains Mono', monospace; fill: #bd93f9; font-size: 16px; font-weight: 700; }
+            .text { font-family: 'JetBrains Mono', monospace; fill: #f8f8f2; font-size: 17px; }
+            .title { font-family: 'JetBrains Mono', monospace; fill: #bd93f9; font-size: 20px; font-weight: 700; }
             .box { fill: #282a36; stroke: #44475a; stroke-width: 2; rx: 10; ry: 10; }
             
             .bento-box {
