@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./header.svg?v=2" width="800" alt="Software Architect & Game Developer - Eren (RaijuMounun)">
+  <img src="./header.svg?v=2" width="800" alt="Software Engineer & Game Developer - Eren (RaijuMounun)">
 </div>
 
 <div align="center">
