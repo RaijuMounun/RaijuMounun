@@ -61,7 +61,7 @@
 
     <!-- Text Content -->
     <g transform="translate(50, 110)">
-        <text x="0" y="0" class="title text-anim delay-1">Software Architect</text>
+        <text x="0" y="0" class="title text-anim delay-1">Software Engineer</text>
         <text x="0" y="45" class="title text-anim delay-1">&amp; Game Developer</text>
         <text x="0" y="90" class="subtitle text-anim delay-2">&gt; Eren (RaijuMounun)</text>
     </g>
